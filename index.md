@@ -1,7 +1,7 @@
 # Alyssa Bardeau
 ![photo cv](./IMG_E1866[1].JPG)
 ## À propos de moi
-Étudiante en Information Communication dans les Organisations, je suis spécialisée dans le community management .
+Étudiante en Information Communication dans les Organisations, je suis spécialisée dans le community management.
 
 ## Formation
 - **2023:** BUT Information Numérique dans les Organisations, IUT Bordeaux Montaigne.
