@@ -1,5 +1,5 @@
 # Alyssa Bardeau
-![photo cv](./felins-lion-noir.jpg)
+![photo cv](./IMG_E1866[1].JPG)
 ## À propos de moi
 Étudiante en Information Communication dans les Organisations, je suis spécialisée dans le community management .
 
