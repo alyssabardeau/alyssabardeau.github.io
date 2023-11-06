@@ -2,7 +2,7 @@
 ![photo cv](./ME.jpg)
 
 ## À propos de moi
-Étudiante en Information Communication dans les Organisations, je suis spécialisée dans le community management.
+Étudiante en Information Communication dans les Organisations, je suis spécialisé dans le community management.
 
 ## Contact
 - Email: alyssa.bardeau@outlook.com
