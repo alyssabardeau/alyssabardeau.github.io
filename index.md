@@ -20,7 +20,6 @@
 - Outils de communication
 - Wordpress
 - Canva et Photopea
-- ...
 
 ## Langues
 - Français
@@ -33,4 +32,4 @@
 
 ## Contact
 - Email: alyssa.bardeau@outlook.com
-- LinkedIn: [Alyssa Bardeau]([https://www.linkedin.com/in/monprofil/]
+- LinkedIn: [Alyssa Bardeau][https://www.linkedin.com/in/monprofil/]
