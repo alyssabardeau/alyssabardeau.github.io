@@ -29,8 +29,7 @@
 - Français
 
 ## Loisirs
-- Lecture
-- Écriture
+- La lecture et l'écriture
 - Voyage
 - Site internet et réseaux sociaux
 - Bénévole dans une association pour les animaux
