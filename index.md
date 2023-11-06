@@ -1,5 +1,5 @@
 # Alyssa Bardeau
-![photo cv](./IMG_E1866[1].JPG)
+![photo cv](./ME.jpg)
 ## À propos de moi
 Étudiante en Information Communication dans les Organisations, je suis spécialisée dans le community management.
 
