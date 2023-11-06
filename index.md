@@ -21,11 +21,12 @@
 - Wordpress
 - Canva et Photopea
 
-## Langues
+## Langue
 - Français
 
 ## Loisirs
 - Lecture
+- Écriture
 - Voyage
 - Site internet et réseaux sociaux
 - Bénévole dans une association pour les animaux
